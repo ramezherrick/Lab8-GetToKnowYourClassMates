@@ -1,0 +1,13 @@
+C:\Users\herri\source\repos\Lab8-GetToKnowYourClassMates\bin\Debug\netcoreapp3.1\Lab8-GetToKnowYourClassMates.exe
+C:\Users\herri\source\repos\Lab8-GetToKnowYourClassMates\bin\Debug\netcoreapp3.1\Lab8-GetToKnowYourClassMates.deps.json
+C:\Users\herri\source\repos\Lab8-GetToKnowYourClassMates\bin\Debug\netcoreapp3.1\Lab8-GetToKnowYourClassMates.runtimeconfig.json
+C:\Users\herri\source\repos\Lab8-GetToKnowYourClassMates\bin\Debug\netcoreapp3.1\Lab8-GetToKnowYourClassMates.runtimeconfig.dev.json
+C:\Users\herri\source\repos\Lab8-GetToKnowYourClassMates\bin\Debug\netcoreapp3.1\Lab8-GetToKnowYourClassMates.dll
+C:\Users\herri\source\repos\Lab8-GetToKnowYourClassMates\bin\Debug\netcoreapp3.1\Lab8-GetToKnowYourClassMates.pdb
+C:\Users\herri\source\repos\Lab8-GetToKnowYourClassMates\obj\Debug\netcoreapp3.1\Lab8-GetToKnowYourClassMates.csprojAssemblyReference.cache
+C:\Users\herri\source\repos\Lab8-GetToKnowYourClassMates\obj\Debug\netcoreapp3.1\Lab8-GetToKnowYourClassMates.AssemblyInfoInputs.cache
+C:\Users\herri\source\repos\Lab8-GetToKnowYourClassMates\obj\Debug\netcoreapp3.1\Lab8-GetToKnowYourClassMates.AssemblyInfo.cs
+C:\Users\herri\source\repos\Lab8-GetToKnowYourClassMates\obj\Debug\netcoreapp3.1\Lab8-GetToKnowYourClassMates.csproj.CoreCompileInputs.cache
+C:\Users\herri\source\repos\Lab8-GetToKnowYourClassMates\obj\Debug\netcoreapp3.1\Lab8-GetToKnowYourClassMates.dll
+C:\Users\herri\source\repos\Lab8-GetToKnowYourClassMates\obj\Debug\netcoreapp3.1\Lab8-GetToKnowYourClassMates.pdb
+C:\Users\herri\source\repos\Lab8-GetToKnowYourClassMates\obj\Debug\netcoreapp3.1\Lab8-GetToKnowYourClassMates.genruntimeconfig.cache
